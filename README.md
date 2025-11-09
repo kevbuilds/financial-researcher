@@ -187,10 +187,6 @@ MIT License - feel free to use this project for learning and portfolio purposes!
 
 Contributions welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
-
-Created by [Your Name] - [Your GitHub Profile]
-
 ## 🙏 Acknowledgments
 
 - Built with [CrewAI](https://crewai.com)
